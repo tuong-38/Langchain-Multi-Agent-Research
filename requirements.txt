@@ -19,3 +19,5 @@ lxml>=5.0.0
 python-dotenv>=1.0.0
 # Logging / debugging
 rich>=13.7.0
+# interface
+streamlit>=1.35.0`
